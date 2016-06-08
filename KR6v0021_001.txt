@@ -1,22 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:10.250083
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:07
 #+TITLE: 大般涅槃經佛為摩耶夫人說偈品經
 #+PROPERTY: CBETA_ID W01n0015d
 #+PROPERTY: ID KR6v0021
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015d
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0021_W_000-0385a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6v0021_W_001-0385a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 
 <pb:KR6v0021_W_001-0386a>¶
 
-錄文四¶
+* 〔錄文四〕¶
 ¶
-
- 大般涅槃經佛為摩耶夫人說偈品經¶
+大般涅槃經佛為摩耶夫人說偈品經¶
 ¶
 
 爾時世尊欲般涅槃，倚臥雙林，告諸大眾：「吾今¶
