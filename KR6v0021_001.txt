@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:10.250083
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:07
 #+TITLE: 大般涅槃經佛為摩耶夫人說偈品經
 #+PROPERTY: CBETA_ID W01n0015d
 #+PROPERTY: ID KR6v0021
@@ -13,7 +13,7 @@
 
 <pb:KR6v0021_W_001-0386a>¶
 
-錄文四¶
+* 錄文四¶
 ¶
 
  大般涅槃經佛為摩耶夫人說偈品經¶
